@@ -1,4 +1,5 @@
 Manual for ETH Bot
+
 Introduction
 The ETH Bot is designed to automate the trading of Ethereum (ETH) using the Uniswap decentralized exchange. This bot employs various technical indicators to inform trading decisions, ensuring a strategic approach to buying and selling ETH. It integrates with Telegram for real-time notifications and commands and includes features such as stop-loss mechanisms, email reporting, and error handling.
 
